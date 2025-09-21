@@ -4,5 +4,6 @@ pdfminer.six==20221105
 langchain==0.3.0
 langchain-community==0.3.0
 sentence-transformers==2.7.0
+faiss-cpu==1.7.4.post2
 markdownify==0.12.1
 pandas==2.2.3
